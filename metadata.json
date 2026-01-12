@@ -1,0 +1,7 @@
+{
+  "name": "Painel de Investigação Digital",
+  "description": "Uma plataforma avançada para análise forense de imagens, coleta de evidências e OSINT legal.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
